@@ -1,16 +1,21 @@
 <!DOCTYPE css>
+
+body {
+	background-color: yellow;
+ }
+
 h1 {
- font-family: arial;
- color: purple;
+	font-family: arial;
+	color: purple;
  }
 
 h2 {
- font-family: comic-sans;
- color: green;
+	font-family: comic-sans;
+	color: green;
  }
 
 p {
- background-color: yellow;
- font-family: calibri;
- color:blue; 
+	background-color: coral;
+	font-family: calibri;
+	color:blue; 
  }
